@@ -1,0 +1,38 @@
+body{
+    background-color: #80ED99;
+}
+div{
+    text-align: center;
+    font-size: 20px;
+}
+.abhishek{
+    margin: 5em 0 3em 0;
+    border-radius: 100%;
+    width: 25%;
+    border:3px solid black;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+}
+h2{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 2rem;
+}
+.btn{
+    padding: 2rem 10rem;
+    background-color: #22577A;
+    border-radius: 5px;
+    border: 10px double black;
+    margin: 2% 10%;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+    font-size: 2rem;
+}
+footer{
+    text-align: center;   
+    font-weight: 100;
+}
+.icon{
+    margin: 0 0.5% 1%;
+}

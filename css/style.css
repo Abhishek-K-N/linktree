@@ -8,26 +8,28 @@ div{
 .abhishek{
     margin: 2rem auto 2rem auto;
     border-radius: 100%;
-    width: 20rem;
+    width: 10rem;
     border:3px solid black;
 }
 h1{
-    font-family: 'Lobster', cursive;
-    font-size: 200%;
+    font-family: 'Lobster', cursive, sans-serif;
+    font-size: 250%;
     margin: 1rem auto 1rem auto;
 }
 h2{
-    font-family: 'Architects Daughter', cursive;
+    font-family: 'Architects Daughter', cursive, sans-serif;
     font-size: 2rem;
 }
 .btn{
-    padding: 2% 10%;
+    max-width: 40%;
+    padding: 1.5% 12%;
     background-color: #22577A;
     border-radius: 5px;
+    display: block;
     border: 10px double black;
     margin: 1% auto 1% auto;
     color: white;
-    font-family: 'Lobster Two', cursive;
+    font-family: 'Lobster Two', cursive, sans-serif;
     font-size: 2rem;
 }
 footer{
